@@ -1,6 +1,8 @@
 
 ### **DSA Roadmap: 6-8 Months (5-6 Hours/Day, Java Developer)**
 
+
+
 **Assumptions**:
 - **Work Hours**: 9 AM to 6 PM (with ~1-hour commute each way, leaving evenings/weekends for study).
 - **Study Time**: 5-6 hours/day, likely mornings - 5:45 AM - 8:00 AM evening 6:45 PM - 10:45 PM or split with mornings/weekends.
@@ -642,3 +644,243 @@ Below is a **300-problem list** (100 Easy, 150 Medium, 50 Hard) curated for mid-
 - **Month 2**: Master basic data structures, 100 problems solved.
 - **Month 4**: Proficient in trees, heaps, graphs, hashing, 200 problems solved.
 - **Month 6**: Interview-ready, 300 problems solved, 8-10 mock interviews completed, confident in explaining solutions.
+
+# 🛠️ DSA Roadmap (Beginner → Advanced)
+
+A structured roadmap to go from **beginner → advanced** in DSA, with **topic-wise problems**.  
+Recommended language: **Java** (but you can adapt to any language).
+
+---
+
+## 1. Basics (Logic Building + Math)
+
+**Focus**: Conditionals, loops, operators, logic formation.  
+👉 Start here to warm up.
+
+- [ ] Print patterns (triangle, pyramid, diamond, etc.)
+- [ ] Reverse a number
+- [ ] Palindrome number
+- [ ] Armstrong number
+- [ ] GCD & LCM of two numbers
+- [ ] Prime check & print primes in range
+- [ ] Count digits / sum of digits
+- [ ] Power of a number (fast exponentiation)
+- [ ] Factorial & nCr
+- [ ] Fibonacci series
+
+---
+
+## 2. Arrays (Core Foundation)
+
+**Focus**: Traversal, searching, prefix, two-pointers.
+
+- [ ] Find max/min in array
+- [ ] Reverse array
+- [ ] Rotate array (left/right by k steps)
+- [ ] Check if array is sorted
+- [ ] Remove duplicates (sorted + unsorted)
+- [ ] Second largest element
+- [ ] Move zeroes to end
+- [ ] Two Sum (pair with target sum)
+- [ ] Leaders in array
+- [ ] Majority Element (Moore’s Voting)
+- [ ] Kadane’s Algorithm (max subarray sum)
+- [ ] Prefix sum problems (range sum queries)
+
+---
+
+## 3. Strings (Character Manipulation)
+
+**Focus**: ASCII, anagrams, hashing with frequency arrays.
+
+- [ ] Reverse a string / words in string
+- [ ] Palindrome string
+- [ ] Count vowels & consonants
+- [ ] Check anagram
+- [ ] Valid palindrome with removals
+- [ ] Longest common prefix
+- [ ] Longest substring without repeating characters
+- [ ] Group anagrams
+- [ ] String compression
+- [ ] Valid parentheses
+
+---
+
+## 4. Searching
+
+**Focus**: Binary search mastery (very important).
+
+- [ ] Linear search
+- [ ] Binary search (basic)
+- [ ] First and last occurrence of element
+- [ ] Count occurrences of element
+- [ ] Square root using binary search
+- [ ] Search in rotated sorted array
+- [ ] Find peak element
+- [ ] Allocate books / Painter partition (binary search on answer)
+- [ ] Median of two sorted arrays
+
+---
+
+## 5. Sorting
+
+**Focus**: Brute force → efficient sorting.
+
+- [ ] Bubble sort
+- [ ] Insertion sort
+- [ ] Selection sort
+- [ ] Merge sort
+- [ ] Quick sort
+- [ ] Counting sort / Radix sort
+- [ ] Sort colors (Dutch National Flag)
+- [ ] Find kth largest element
+- [ ] Merge intervals
+- [ ] Meeting rooms problem
+
+---
+
+## 6. Recursion & Backtracking
+
+**Focus**: Divide problems into subproblems.
+
+- [ ] Factorial recursion
+- [ ] Fibonacci recursion
+- [ ] Print all subsequences
+- [ ] Subset sum problem
+- [ ] Generate all permutations of array/string
+- [ ] N-Queens problem
+- [ ] Rat in a Maze
+- [ ] Sudoku Solver
+- [ ] Word Search
+
+---
+
+## 7. Hashing (Maps + Sets)
+
+**Focus**: Frequency-based + optimization with hashing.
+
+- [ ] Two Sum using hashmap
+- [ ] Subarray with 0 sum
+- [ ] Subarray with given sum
+- [ ] Count distinct elements in window
+- [ ] Longest consecutive sequence
+- [ ] Longest subarray with equal 0s and 1s
+- [ ] Group anagrams (using hashmap)
+
+---
+
+## 8. Linked List
+
+**Focus**: Pointers, fast/slow pointers.
+
+- [ ] Reverse a linked list
+- [ ] Detect cycle in linked list (Floyd’s algo)
+- [ ] Middle of linked list
+- [ ] Merge two sorted linked lists
+- [ ] Remove Nth node from end
+- [ ] Add two numbers (linked list representation)
+- [ ] Flatten a linked list
+- [ ] Clone a linked list with random pointer
+
+---
+
+## 9. Stack & Queue
+
+**Focus**: LIFO & FIFO problems.
+
+- [ ] Implement stack & queue (array & linked list)
+- [ ] Min stack
+- [ ] Next greater element
+- [ ] Valid parentheses
+- [ ] Largest rectangle in histogram
+- [ ] Sliding window maximum
+- [ ] Circular queue
+- [ ] Implement LRU Cache
+
+---
+
+## 10. Trees (Binary Tree + BST)
+
+**Focus**: Traversals, recursion, BST properties.
+
+- [ ] Binary tree traversals (inorder, preorder, postorder, level order)
+- [ ] Height of tree
+- [ ] Diameter of tree
+- [ ] Lowest common ancestor (LCA)
+- [ ] Balanced binary tree check
+- [ ] Zigzag level order traversal
+- [ ] Serialize & deserialize binary tree
+- [ ] BST insert & delete
+- [ ] Validate BST
+- [ ] Kth smallest element in BST
+
+---
+
+## 11. Heap & Priority Queue
+
+**Focus**: Greedy + optimization.
+
+- [ ] Kth largest element
+- [ ] Heap sort
+- [ ] Merge k sorted lists
+- [ ] Find median from data stream
+- [ ] Top k frequent elements
+- [ ] Sliding window median
+
+---
+
+## 12. Graphs
+
+**Focus**: BFS, DFS, shortest paths.
+
+- [ ] BFS & DFS traversal
+- [ ] Detect cycle in graph (BFS & DFS)
+- [ ] Number of islands
+- [ ] Rotten oranges
+- [ ] Shortest path in unweighted graph (BFS)
+- [ ] Dijkstra’s algorithm
+- [ ] Bellman-Ford algorithm
+- [ ] Floyd-Warshall
+- [ ] Minimum spanning tree (Prim’s, Kruskal’s)
+- [ ] Topological sort (DFS + Kahn’s algo)
+
+---
+
+## 13. Dynamic Programming (DP)
+
+**Focus**: Break problems → overlapping subproblems.
+
+- [ ] Fibonacci (memo + tabulation)
+- [ ] Climbing stairs
+- [ ] Coin change (min coins / total ways)
+- [ ] Longest common subsequence (LCS)
+- [ ] Longest increasing subsequence (LIS)
+- [ ] Matrix chain multiplication
+- [ ] Minimum path sum
+- [ ] Edit distance
+- [ ] 0/1 Knapsack
+- [ ] Partition equal subset sum
+
+---
+
+## 14. Advanced Topics
+
+- [ ] Bit Manipulation (XOR tricks, subset generation, power set)
+- [ ] Disjoint Set Union (Union-Find)
+- [ ] Tries (Prefix tree)
+- [ ] Segment Tree / Fenwick Tree
+- [ ] Advanced DP (Digit DP, DP on Trees)
+
+---
+
+## ⚡ Strategy
+
+- ✅ Solve **~40 beginner problems** (math, arrays, strings) to sharpen logic.
+- ✅ Move to **binary search, recursion, sorting**.
+- ✅ Then master **linked list, stack, queue**.
+- ✅ Finally, tackle **trees, graphs, DP, advanced topics**.
+
+---
+
+> 📝 Pro Tip: Track your progress by checking `[ ]` → `[x]` once solved.  
+> 💡 Recommended platforms: **LeetCode, GeeksForGeeks, Codeforces (for contests)**.
