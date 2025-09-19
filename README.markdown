@@ -32,7 +32,7 @@ Below is a curated list of resources to complement the 350-problem LeetCode list
 
 This roadmap covers **350 LeetCode problems** (120 Easy, 170 Medium, 60 Hard) over 6 months, with an optional 2-month extension for advanced topics. Each month targets ~60 problems (5-7/day), with revisited problems to reinforce concepts. The plan focuses on startup-relevant topics (arrays, strings, linked lists, trees, heaps, graphs, hashing, sorting, searching, greedy, DP, sliding window) and excludes advanced topics (segment trees, DSU) less common in startup interviews.
 
-### Month 1: Foundations and Basic Data Structures (60 Problems, 140 Hours)
+### Month 1: Foundations and dsa Data Structures (60 Problems, 140 Hours)
 **Goal**: Master arrays, strings, and linked lists, foundational for startup interviews.
 
 - **Week 1: Java Revision and Complexity Analysis (10 Problems, Easy)**
@@ -106,7 +106,7 @@ This roadmap covers **350 LeetCode problems** (120 Easy, 170 Medium, 60 Hard) ov
     - #142: Linked List Cycle II (Medium, Linked List)
   - **Milestone**: Implement arrays, strings, and linked lists from scratch, solve 50 problems.
 
-### Month 2: Stacks, Queues, and Basic Algorithms (60 Problems, 140 Hours)
+### Month 2: Stacks, Queues, and dsa Algorithms (60 Problems, 140 Hours)
 **Goal**: Master stacks, queues, and core algorithms (sorting, searching) for startup problems.
 
 - **Weeks 1-2: Stacks and Queues (25 Problems)**

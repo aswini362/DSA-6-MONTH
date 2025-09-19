@@ -4,20 +4,20 @@
 
 ### Programming Fundamentals
 - **Language Choice**: Pick one primary language (C++, Java, Python, or JavaScript)
-- **Basic Syntax**: Variables, loops, conditionals, functions
+- **dsa Syntax**: Variables, loops, conditionals, functions
 - **Input/Output**: Reading from console, file handling
 - **Debugging Skills**: Using debuggers, print statements
 
 ### Mathematics for DSA
 - **Time & Space Complexity**: Big O, Big Θ, Big Ω notation
-- **Basic Combinatorics**: Permutations, combinations
+- **dsa Combinatorics**: Permutations, combinations
 - **Number Theory**: GCD, LCM, prime numbers, modular arithmetic
 - **Logarithms**: Understanding log properties
 
 ### First Data Structures
 - **Arrays**: 1D and 2D arrays, basic operations
 - **Strings**: String manipulation, basic algorithms
-- **Basic I/O Problems**: Practice 20-30 simple problems
+- **dsa I/O Problems**: Practice 20-30 simple problems
 
 ---
 
@@ -67,7 +67,7 @@
 - Overlapping subproblems concept
 - Memoization vs tabulation
 - 1D DP: Fibonacci, climbing stairs
-- Basic optimization problems
+- dsa optimization problems
 
 ---
 

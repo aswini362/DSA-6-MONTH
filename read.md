@@ -12,7 +12,7 @@
 
 Below is a detailed **month-by-month plan**, with daily schedules, topics, practice problems, and milestones. Each phase includes Java-specific tips and aligns with your 5-hour daily commitment.
 ---
-### **Month 1: Foundations and Basic Data Structures (4 Weeks, 140 Hours)**
+### **Month 1: Foundations and dsa Data Structures (4 Weeks, 140 Hours)**
 **Goal**: Refresh Java skills, solidify DSA basics, and master core data structures.
 - **Week 1: Java Revision and Complexity Analysis (35 Hours)**
     - **Topics**:
@@ -41,7 +41,7 @@ Below is a detailed **month-by-month plan**, with daily schedules, topics, pract
         - GeeksforGeeks: Data Structures section.
         - Book: “Data Structures and Algorithms in Java” by Robert Lafore.
     - **Milestone**: Implement arrays, strings, and linked lists from scratch, solve 50-60 problems.
-### **Month 2: Stacks, Queues, and Basic Algorithms (4 Weeks, 140 Hours)**
+### **Month 2: Stacks, Queues, and dsa Algorithms (4 Weeks, 140 Hours)**
 **Goal**: Master stacks, queues, and core algorithms.
 - **Weeks 1-2: Stacks and Queues (70 Hours)**
     - **Topics**:
@@ -236,7 +236,7 @@ Below is a detailed **month-by-month plan**, with daily schedules, topics, pract
 - **Month 8 (if extended)**: Advanced DSA mastery, competitive programming skills.
 
 DSA Problem List for 6-8 Month Roadmap
-Month 1: Foundations and Basic Data Structures
+Month 1: Foundations and dsa Data Structures
 Week 1: Java Revision and Complexity Analysis
 
 Based on your request to target **mid-sized startup companies** in India for Java developer roles with a **target package of 20 LPA** (approximately $24,000 USD annually, based on current exchange rates), and to integrate the previously provided **problem list for mid-sized startups** with the **general DSA problem list**, I’ve created a consolidated and optimized **LeetCode problem list** tailored for your goal. As a Java developer with **3 years of experience**, a **9 AM to 6 PM** work schedule, and a **5-hour daily study schedule** (5:45 AM - 8:00 AM for 2h15m, 6:45 PM - 9:30 PM for 2h45m), this list refines the preparation plan to align with the expectations of mid-sized startups like **Zoho, Freshworks, Paytm, Swiggy, or Razorpay**, which often offer 15-25 LPA for developers with strong DSA and Java skills.
@@ -253,7 +253,7 @@ Based on your request to target **mid-sized startup companies** in India for Jav
 
 Below is a **300-problem list** (100 Easy, 150 Medium, 50 Hard) curated for mid-sized startup interviews, merging the provided lists and tailored for your 20 LPA goal. Problems are grouped by topic and month, with a focus on practical applications for backend development. Each month targets **50 problems** (4-6/day), with some problems revisited for reinforcement.
 
-#### **Month 1: Foundations and Basic Data Structures (50 Problems)**
+#### **Month 1: Foundations and dsa Data Structures (50 Problems)**
 **Goal**: Master arrays, strings, and linked lists, foundational for startup interviews.
 - **Week 1: Java Revision and Complexity Analysis (10 Problems, Easy)**
     - LeetCode #1: Two Sum (Easy, Array, HashMap)
@@ -311,7 +311,7 @@ Below is a **300-problem list** (100 Easy, 150 Medium, 50 Hard) curated for mid-
         - LeetCode #61: Rotate List (Medium, Linked List)
         - LeetCode #142: Linked List Cycle II (Medium, Linked List)
 
-#### **Month 2: Stacks, Queues, and Basic Algorithms (50 Problems)**
+#### **Month 2: Stacks, Queues, and dsa Algorithms (50 Problems)**
 **Goal**: Master stacks, queues, and core algorithms (sorting, searching) for startup problems.
 - **Weeks 1-2: Stacks and Queues (20 Problems)**
     - **Stacks (10 Problems)**:
